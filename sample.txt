@@ -1,2 +1,3 @@
 hello!
 this is a smaple line added..
+added line 3
